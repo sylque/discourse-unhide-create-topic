@@ -1,0 +1,3 @@
+en:
+  site_settings:
+    discourse_unhide_create_topic_enabled: 'Enable the discourse-unhide-create-topic plugin'
